@@ -119,7 +119,7 @@ Sesuaikan lokasi file pada notebook.
 Contoh:
 
 ```python
-pdf_path = "/content/drive/MyDrive/risetRAG/Pedoman_KP_BD.pdf"
+pdf_path = "/content/drive/MyDrive/risetRAG/Pedoman_AkademikALL.pdf"
 ```
 
 ---
